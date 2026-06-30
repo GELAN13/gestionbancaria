@@ -22,7 +22,7 @@ public class CuentaBancaria {
         if (!titular.isEmpty()) {
             this.titular = titular;
         } else {
-            System.out.println("Cambio no realizado. Dato vacío o no válido");
+            System.out.println("Cambio no realizado. Dato vacío o no valido");
         }
     }
 
